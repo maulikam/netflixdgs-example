@@ -1,13 +1,13 @@
-package com.example.netflix_dgs;
+package com.bookkeeping.backend.apis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NetflixDgsApplication {
+public class ApisApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NetflixDgsApplication.class, args);
+		SpringApplication.run(ApisApplication.class, args);
 	}
 
 }

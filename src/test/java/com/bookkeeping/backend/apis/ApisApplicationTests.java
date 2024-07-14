@@ -1,10 +1,10 @@
-package com.example.netflix_dgs;
+package com.bookkeeping.backend.apis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NetflixDgsApplicationTests {
+class ApisApplicationTests {
 
 	@Test
 	void contextLoads() {
